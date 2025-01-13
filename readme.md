@@ -14,21 +14,6 @@ A full-stack developer ,Passionate about building scalable, efficient, and clean
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
